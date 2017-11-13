@@ -7,3 +7,6 @@ data
 /bin/
 .project
 .classpath
+!lib/commons-compress-1.9.jar
+!lib/gson-2.8.0.jar
+!lib/xz-1.6.jar
