@@ -3,6 +3,7 @@
 
 out
 data
+lib
 /bin/
 .project
 .classpath
