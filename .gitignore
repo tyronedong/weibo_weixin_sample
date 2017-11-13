@@ -4,3 +4,6 @@
 out
 lib
 data
+/bin/
+.project
+.classpath
