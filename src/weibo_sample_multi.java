@@ -6,6 +6,8 @@ import org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry;
 import org.apache.commons.compress.archivers.sevenz.SevenZFile;
 
 public class weibo_sample_multi extends Thread {
+	//处理历史7z数据
+
 	public Integer dir;
 	public Integer index;
 
